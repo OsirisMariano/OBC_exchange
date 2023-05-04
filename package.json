@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   },
