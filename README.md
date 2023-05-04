@@ -1,3 +1,5 @@
+![onebitexchange](https://user-images.githubusercontent.com/38112205/236084556-60e0c090-6114-4be0-8678-951105605e00.jpg)
+
 ## Prontos que serão aprendidos
 * Dockerização de um projeto Ruby On Rails
 * Estruturação de um APP
